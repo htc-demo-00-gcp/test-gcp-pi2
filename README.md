@@ -1,4 +1,4 @@
-# Podinfo - Test-gcp-pi2
+# Podinfo - Test-gcp-pi2 PR
 
 A simple score project deploying podinfo.
 
