@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "test-gcp-pi2"
+  annotations:
+    "humanitec.com/orgId": "johannes"
+    "humanitec.com/appId": "test-gcp-pi2"
+spec:
+  type: service
+  owner: user:guest
+  lifecycle: experimental
